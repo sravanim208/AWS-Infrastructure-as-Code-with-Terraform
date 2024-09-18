@@ -22,7 +22,7 @@ Before we begin, ensure you have the following installed:
    Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/aws-terraform-infrastructure.git
+   git clone [https://github.com/sravanim208/AWS-Infrastructure-as-Code-with-Terraform.git]
    cd aws-terraform-infrastructure
 
 
